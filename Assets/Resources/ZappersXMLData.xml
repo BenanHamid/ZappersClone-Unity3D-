@@ -1,0 +1,128 @@
+<!--Levels and maximum number of clicking data-->
+<levels>
+	<level maxClicks="3" id="lvlOne" locked = "no">1,0,0,0,2,0,0,0,0,3,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1</level>
+	
+	<level maxClicks="10" id="lvlTwo" locked = "no">0,0,1,0,1,0,0,0,0,1,0,0,0,4,0,0,0,0,0,3,0,2,0,0,1,0,1,4,0,4</level>
+	
+	<level maxClicks="20" id="lvlThree" locked = "no">1,0,4,0,0,4,0,2,0,1,0,4,0,3,2,0,1,0,2,3,0,2,0,0,1,0,1,2,0,4</level>
+	
+	<level maxClicks="15" id="lvlFour" locked = "yes">1,0,0,0,2,0,0,4,0,1,0,0,0,0,0,0,4,0,0,3,0,0,0,0,1,0,1,2,0,4</level>
+	
+	<level maxClicks="6" id="lvlFive" locked = "yes">0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,2,0,0,2,0,0,1,0,3,2,0,4</level>
+	
+	<level maxClicks="1" id="lvlSix" locked = "yes">1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</level>
+	
+	<level maxClicks="11" id="lvlSeven" locked = "yes">1,0,0,0,2,0,0,0,0,1,0,0,0,3,2,0,4,0,2,3,0,2,0,0,1,0,1,2,0,4</level>
+	
+	<level maxClicks="9" id="lvlEight" locked = "yes">1,0,0,0,2,0,0,0,0,1,0,0,0,3,0,0,4,0,2,0,0,2,0,0,1,0,0,0,0,1</level>
+	
+	<level maxClicks="8" id="lvlNine" locked = "yes">0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,4,0,2,0,0,2,0,0,1,0,1,2,0,0</level>
+	
+	<level maxClicks="15" id="lvlTen" locked = "yes">3,0,3,0,1,0,4,0,0,1,0,2,0,3,0,0,4,0,2,3,0,2,0,0,1,0,1,2,0,4</level>
+	
+	
+	
+	<level maxClicks="3" id="lvlEleven" locked = "yes">1,0,0,0,2,0,0,0,0,3,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1</level>
+	
+	<level maxClicks="10" id="lvlTwelve" locked = "yes">0,0,1,0,1,0,0,0,0,1,0,0,0,4,0,0,0,0,0,3,0,2,0,0,1,0,1,4,0,4</level>
+	
+	<level maxClicks="20" id="lvlThirteen" locked = "yes">1,0,4,0,0,4,0,2,0,1,0,4,0,3,2,0,1,0,2,3,0,2,0,0,1,0,1,2,0,4</level>
+	
+	<level maxClicks="15" id="lvlFourteen" locked = "yes">1,0,0,0,2,0,0,4,0,1,0,0,0,0,0,0,4,0,0,3,0,0,0,0,1,0,1,2,0,4</level>
+	
+	<level maxClicks="6" id="lvlFivteen" locked = "yes">0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,2,0,0,2,0,0,1,0,3,2,0,4</level>
+	
+	<level maxClicks="1" id="lvlSixteen" locked = "yes">1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</level>
+	
+	<level maxClicks="11" id="lvlSeventeen" locked = "yes">1,0,0,0,2,0,0,0,0,1,0,0,0,3,2,0,4,0,2,3,0,2,0,0,1,0,1,2,0,4</level>
+	
+	<level maxClicks="9" id="lvlEightteen" locked = "yes">1,0,0,0,2,0,0,0,0,1,0,0,0,3,0,0,4,0,2,0,0,2,0,0,1,0,0,0,0,1</level>
+	
+	<level maxClicks="8" id="lvlNineteen" locked = "yes">0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,4,0,2,0,0,2,0,0,1,0,1,2,0,0</level>
+	
+	<level maxClicks="15" id="lvlTwenty" locked = "yes">3,0,3,0,1,0,4,0,0,1,0,2,0,3,0,0,4,0,2,3,0,2,0,0,1,0,1,2,0,4</level>
+	
+	
+	<!--
+	<level maxClicks="3" id="lvlOne" >4,0,0,0,2,0,0,0,0,1,0,0,0,0,2,0,0,0,0,3,0,0,0,0,0,0,0,0,0,1</level>
+	
+	<level maxClicks="2" id="lvlTwo">0,0,2,0,2,0,0,0,0,1,0,0,0,3,0,0,0,0,0,3,0,2,0,0,1,0,1,2,0,4</level>
+	
+	<level maxClicks="4" id="lvlThree">1,0,4,0,0,4,0,2,0,1,0,4,0,3,2,0,1,0,2,3,0,2,0,0,1,0,1,2,0,4</level>
+	
+	<level maxClicks="5" id="lvlFour">1,0,0,0,2,0,0,4,0,1,0,0,0,0,0,0,4,0,0,3,0,0,0,0,1,0,1,2,0,4</level>
+	
+	<level maxClicks="3" id="lvlFive">1,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,2,3,0,2,0,0,1,0,1,2,0,4</level>
+	
+	<level maxClicks="1" id="lvlSix">1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</level>
+	
+	<level maxClicks="2" id="lvlSeven">1,0,0,0,2,0,0,0,0,1,0,0,0,3,2,0,4,0,2,3,0,2,0,0,1,0,1,2,0,4</level>
+	
+	<level maxClicks="5" id="lvlEight">1,0,0,0,2,0,0,0,0,1,0,0,0,3,0,0,4,0,2,0,0,2,0,0,1,0,0,0,0,1</level>
+	
+	<level maxClicks="4" id="lvlNine">0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,4,0,2,0,0,2,0,0,1,0,1,2,0,0</level>
+	
+	<level maxClicks="3" id="lvlTen">3,0,3,0,1,0,4,0,0,1,0,2,0,3,0,0,4,0,2,3,0,2,0,0,1,0,1,2,0,4</level>
+	
+	<level maxClicks="3" id="lvlOne" >4,0,0,0,2,0,0,0,0,1,0,0,0,0,2,0,0,0,0,3,0,0,0,0,0,0,0,0,0,1</level>
+	
+	<level maxClicks="2" id="lvlTwo">0,0,2,0,2,0,0,0,0,1,0,0,0,3,0,0,0,0,0,3,0,2,0,0,1,0,1,2,0,4</level>
+	
+	<level maxClicks="4" id="lvlThree">1,0,4,0,0,4,0,2,0,1,0,4,0,3,2,0,1,0,2,3,0,2,0,0,1,0,1,2,0,4</level>
+	
+	<level maxClicks="5" id="lvlFour">1,0,0,0,2,0,0,4,0,1,0,0,0,0,0,0,4,0,0,3,0,0,0,0,1,0,1,2,0,4</level>
+	
+	<level maxClicks="3" id="lvlFive">1,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,2,3,0,2,0,0,1,0,1,2,0,4</level>
+	
+	<level maxClicks="1" id="lvlSix">1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</level>
+	
+	<level maxClicks="2" id="lvlSeven">1,0,0,0,2,0,0,0,0,1,0,0,0,3,2,0,4,0,2,3,0,2,0,0,1,0,1,2,0,4</level>
+	
+	<level maxClicks="5" id="lvlEight">1,0,0,0,2,0,0,0,0,1,0,0,0,3,0,0,4,0,2,0,0,2,0,0,1,0,0,0,0,1</level>
+	
+	<level maxClicks="4" id="lvlNine">0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,4,0,2,0,0,2,0,0,1,0,1,2,0,0</level>
+	
+	<level maxClicks="3" id="lvlTen">3,0,3,0,1,0,4,0,0,1,0,2,0,3,0,0,4,0,2,3,0,2,0,0,1,0,1,2,0,4</level>
+	
+	<level maxClicks="3" id="lvlOne" >4,0,0,0,2,0,0,0,0,1,0,0,0,0,2,0,0,0,0,3,0,0,0,0,0,0,0,0,0,1</level>
+	
+	<level maxClicks="2" id="lvlTwo">0,0,2,0,2,0,0,0,0,1,0,0,0,3,0,0,0,0,0,3,0,2,0,0,1,0,1,2,0,4</level>
+	
+	<level maxClicks="4" id="lvlThree">1,0,4,0,0,4,0,2,0,1,0,4,0,3,2,0,1,0,2,3,0,2,0,0,1,0,1,2,0,4</level>
+	
+	<level maxClicks="5" id="lvlFour">1,0,0,0,2,0,0,4,0,1,0,0,0,0,0,0,4,0,0,3,0,0,0,0,1,0,1,2,0,4</level>
+	
+	<level maxClicks="3" id="lvlFive">1,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,2,3,0,2,0,0,1,0,1,2,0,4</level>
+	
+	<level maxClicks="1" id="lvlSix">1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</level>
+	
+	<level maxClicks="2" id="lvlSeven">1,0,0,0,2,0,0,0,0,1,0,0,0,3,2,0,4,0,2,3,0,2,0,0,1,0,1,2,0,4</level>
+	
+	<level maxClicks="5" id="lvlEight">1,0,0,0,2,0,0,0,0,1,0,0,0,3,0,0,4,0,2,0,0,2,0,0,1,0,0,0,0,1</level>
+	
+	<level maxClicks="4" id="lvlNine">0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,4,0,2,0,0,2,0,0,1,0,1,2,0,0</level>
+	
+	<level maxClicks="3" id="lvlTen">3,0,3,0,1,0,4,0,0,1,0,2,0,3,0,0,4,0,2,3,0,2,0,0,1,0,1,2,0,4</level>
+	
+	<level maxClicks="3" id="lvlOne" >4,0,0,0,2,0,0,0,0,1,0,0,0,0,2,0,0,0,0,3,0,0,0,0,0,0,0,0,0,1</level>
+	
+	<level maxClicks="2" id="lvlTwo">0,0,2,0,2,0,0,0,0,1,0,0,0,3,0,0,0,0,0,3,0,2,0,0,1,0,1,2,0,4</level>
+	
+	<level maxClicks="4" id="lvlThree">1,0,4,0,0,4,0,2,0,1,0,4,0,3,2,0,1,0,2,3,0,2,0,0,1,0,1,2,0,4</level>
+	
+	<level maxClicks="5" id="lvlFour">1,0,0,0,2,0,0,4,0,1,0,0,0,0,0,0,4,0,0,3,0,0,0,0,1,0,1,2,0,4</level>
+	
+	<level maxClicks="3" id="lvlFive">1,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,2,3,0,2,0,0,1,0,1,2,0,4</level>
+	
+	<level maxClicks="1" id="lvlSix">1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</level>
+	
+	<level maxClicks="2" id="lvlSeven">1,0,0,0,2,0,0,0,0,1,0,0,0,3,2,0,4,0,2,3,0,2,0,0,1,0,1,2,0,4</level>
+	
+	<level maxClicks="5" id="lvlEight">1,0,0,0,2,0,0,0,0,1,0,0,0,3,0,0,4,0,2,0,0,2,0,0,1,0,0,0,0,1</level>
+	
+	<level maxClicks="4" id="lvlNine">0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,4,0,2,0,0,2,0,0,1,0,1,2,0,0</level>
+	
+	<level maxClicks="3" id="lvlTen">3,0,3,0,1,0,4,0,0,1,0,2,0,3,0,0,4,0,2,3,0,2,0,0,1,0,1,2,0,4</level>
+	-->
+	
+</levels>
