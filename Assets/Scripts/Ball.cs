@@ -31,6 +31,7 @@ public class Ball : MonoBehaviour
 	void FixedUpdate () 
 	{
 		//print("ball count " + FishLogic.ballCounter.Count);
+		//test
 		switch(ballType) {
 			
 			case BallType.Up : transform.Translate(Vector3.up * Time.deltaTime*5);
