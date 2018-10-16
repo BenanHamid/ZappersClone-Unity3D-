@@ -2,9 +2,6 @@
 using System.Collections;
 
 public class LoadMenu : MonoBehaviour {
-
-	// Use this for initialization
-	
 	void OnMouseDown() {
 		Time.timeScale = 1;
 		//PauseMenu.setLimiter(0);
@@ -12,6 +9,7 @@ public class LoadMenu : MonoBehaviour {
 		LevelLogic.maximumClicks = 0;
 		LevelLogic.fishCounter.Clear();
 		LevelLogic.ballCounter.Clear();
+		
 		Application.LoadLevel("Menu");
 	}
 }
