@@ -9,6 +9,5 @@ A PARTIAL clone of the original game Zappers3D
 
 
 
-The code not using MVC or
-any design patterns at all. When making this project the only thing I knew about OOP
-was GET/SET
+The code is not using MVC or
+any design patterns at all.
